@@ -156,7 +156,8 @@ footer{
         padding: 20px
     }
     p{
-        font-size: 16px
+        font-size: 16px;
+        line-height: 25px
     }
     a{
         font-size: 18px
@@ -166,5 +167,10 @@ footer{
     }
     .image__container{
         height: 50vh
+    }
+    .video__page{
+        
+        padding: 10px;
+        font-size: 17px
     }
 }
