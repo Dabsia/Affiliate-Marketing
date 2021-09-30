@@ -118,7 +118,9 @@ a{
     margin-top: 1.5rem;
     height: 45px;
     width: 200px;
-    margin-bottom:4rem
+}
+footer{
+    padding-bottom: 2rem
 }
 
 @media screen and (max-width: 1000px){
@@ -158,5 +160,11 @@ a{
     }
     a{
         font-size: 18px
+    }
+    .banner{
+        height: 50vh
+    }
+    .image__container{
+        height: 50vh
     }
 }
